@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "storageAccounts_emaardiag_name": {
+            "value": null
+        },
+        "virtualNetworks_EMAAR_vnet_name": {
+            "value": null
+        },
+        "virtualMachines_StreamingPOC_name": {
+            "value": null
+        },
+        "databaseAccounts_wifianalytics_name": {
+            "value": null
+        },
+        "networkInterfaces_streamingpoc947_name": {
+            "value": null
+        },
+        "publicIPAddresses_StreamingPOC_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_StreamingPOC_nsg_name": {
+            "value": null
+        }
+    }
+}
